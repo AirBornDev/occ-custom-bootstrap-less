@@ -1,0 +1,12 @@
+{
+  "name": "occ-custom-bootstrap-less",
+  "version": "1.0.0",
+  "description": "Custom Bootstrap's Less for Oracle Commerce Cloud",
+  "author": {
+    "name": "Douglas Hipolito",
+    "email": "me@douglashipolito.com",
+    "url": "http://douglashipolito.com"
+  },
+  "repository": "github.com/douglashipolito/occ-custom-bootstrap-less",
+  "license": "MIT"
+}

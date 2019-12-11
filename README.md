@@ -1,0 +1,1 @@
+The Purpose of this repository is just to keep the Bootstrap's version Oracle uses in their Oracle Commerce Cloud platform, which is a mix of the Boostrap v2.3.2 and v3.2.0
